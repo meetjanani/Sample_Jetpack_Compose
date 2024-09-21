@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jetpack Compose Project created by Meet Janani</string>
+    <string name="create_account_string"> Please enter a valid email and password that is at least 6 characters</string>
+    <string name="about_app">Weather App version v0.1</string>
+    <string name="api_used">Weather API by: https://api.openweathermap.org</string>
+    <string name="are_you_sure_warning_message">Are you sure you want to delete this book?</string>
+    <string name="action_warning_message">This is action is not reversible</string>
+</resources>
